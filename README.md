@@ -4,7 +4,7 @@ Submitted by: **Nour Siwar**
 
 **Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='Flixster.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
+<img src='https://imgur.com/a/5mqrKjG.gif' title='Gif Walkthrough' width='' alt='Gif Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ... ScanToGIF
